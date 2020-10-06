@@ -15,7 +15,7 @@ MySQL databases live in the `mysql` folder
 ## Quick Start
 
 - Install Docker: https://docs.docker.com/get-docker/
-- Clone the repository: `git clone git@github.com:blobaugh/seattle-givecamp-wordpress-docker.git`
+- Clone the repository: `git clone git@github.com:SeattleGiveCamp/seattle-givecamp-wordpress-docker.git`
 - Bring up the environment: `docker-compose up`
 
 ## Full install instructions
